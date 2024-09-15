@@ -1,4 +1,5 @@
-# 💫 About Me:
+Ⓐⓑⓞⓤⓣ ⓜⓔ
+
 🔭 I’m currently working on Frontend Projects<br><br>🌱 I’m currently learning Django<br><br>🤝 I’m looking for help with Backend Projects<br><br>👨‍💻 All of my projects are available at https://github.com/echoAbhinav/MyPortfolio<br><br>📫 How to reach me abhinavt00001@gmail.com<br><br>📄 Know about my experiences https://github.com/echoAbhinav/MyPortfolio<br><br>⚡ Fun fact : Always a learner
 
 
@@ -15,7 +16,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=echoAbhinav&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
@@ -24,8 +25,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=echoAbhinav&icon=4&color=6)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 BUY ME A COFFEE
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/echoAbhinav) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
