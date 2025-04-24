@@ -1,6 +1,6 @@
 About Me !!<br>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-🔭 I’m currently working on Frontend Projects<br><br>🌱 I’m currently learning Blockchain aand NextJS<br><br>🤝 I’m looking for help with Backend Projects<br><br>👨‍💻 All of my projects are available at https://github.com/echoAbhinav/MyPortfolio<br><br>📫 How to reach me abhinavt00001@gmail.com<br><br>📄 Know about my experiences https://github.com/echoAbhinav/MyPortfolio<br><br>⚡ Fun fact : Always a learner
+🔭 I’m currently working on Full stack Projects<br><br>🌱 I’m currently learning Blockchain aand NextJS<br><br>🤝 I’m looking for help with Backend Projects<br><br>👨‍💻 All of my projects are available at https://github.com/echoAbhinav/MyPortfolio<br><br>📫 How to reach me abhinavt00001@gmail.com<br><br>📄 Know about my experiences https://github.com/echoAbhinav/MyPortfolio<br><br>⚡ Fun fact : Always a learner
 
 
 ## 🌐 Socials:
