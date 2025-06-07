@@ -258,7 +258,7 @@ const abhinav = {
 ## ☕ **Support My Work**
 
 <div align="center">
-  <h3>If you like what I do, maybe consider buying me a coffee!/h3>
+  <h3>If you like what I do, maybe consider buying me a coffee! <h3>
   
   <a href="https://buymeacoffee.com/echoAbhinav" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
@@ -274,7 +274,7 @@ const abhinav = {
 </div>
 
 <div align="center">
-  <h2>Show some ❤️ by starring some of the repositories!</h2>
+  <h2>Show some ❤️ by starring some of the repositories</h2>
   
   <img src="https://komarev.com/ghpvc/?username=echoAbhinav&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
 </div>
