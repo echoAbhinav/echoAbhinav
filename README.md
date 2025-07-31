@@ -65,7 +65,7 @@ const abhinav = {
       <td align="center" width="20%">
         <img src="https://img.icons8.com/dusk/64/000000/learning.png" width="50"/>
         <br><strong>Learning</strong>
-        <br>System Design and DevOps practices
+        <br>System Design & DevOps practices
       </td>
       <td align="center" width="20%">
         <img src="https://img.icons8.com/dusk/64/000000/email.png" width="50"/>
